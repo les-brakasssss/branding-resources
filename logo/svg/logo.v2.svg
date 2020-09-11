@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1096">
+      <stop
+         id="stop1092"
+         offset="0"
+         style="stop-color:#c83737;stop-opacity:1" />
+      <stop
+         id="stop1094"
+         offset="1"
+         style="stop-color:#ba293d;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="344.32181"
+       x2="172.71788"
+       y1="293.69"
+       x1="237.06036"
+       id="linearGradient1098"
+       xlink:href="#linearGradient1096" />
+    <filter
+       id="elevation-2"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1161"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.5" />
+      <feComposite
+         id="feComposite1163"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1165"
+         result="blur"
+         stdDeviation="2"
+         in="composite1" />
+      <feOffset
+         id="feOffset1167"
+         result="offset"
+         dy="2.77556e-017"
+         dx="1.38778e-016" />
+      <feComposite
+         id="feComposite1169"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="elevation-4"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1197"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.5" />
+      <feComposite
+         id="feComposite1199"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1201"
+         result="blur"
+         stdDeviation="4"
+         in="composite1" />
+      <feOffset
+         id="feOffset1203"
+         result="offset"
+         dy="2.77556e-017"
+         dx="1.38778e-016" />
+      <feComposite
+         id="feComposite1205"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="elevation-6"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1221"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.5" />
+      <feComposite
+         id="feComposite1223"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1225"
+         result="blur"
+         stdDeviation="6"
+         in="composite1" />
+      <feOffset
+         id="feOffset1227"
+         result="offset"
+         dy="2.77556e-017"
+         dx="1.38778e-016" />
+      <feComposite
+         id="feComposite1229"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     style="filter:url(#elevation-2)"
+     id="background">
+    <circle
+       style="fill:#11767f;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle-1"
+       cx="256"
+       cy="256"
+       r="248" />
+    <circle
+       style="fill:#005373;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle-2"
+       cx="224"
+       cy="288"
+       r="192" />
+    <circle
+       style="fill:#102e58;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle-3"
+       cx="192"
+       cy="320"
+       r="128" />
+  </g>
+  <g
+     style="filter:url(#elevation-4)"
+     id="brakasssss-horns">
+    <path
+       style="fill:url(#linearGradient1098);fill-opacity:1;stroke:none;stroke-width:8.6644659;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#elevation-4)"
+       d="m 249.15095,261.45729 64.19566,39.35178 -41.47532,40.31315 -68.20257,-15.00685 -3.59837,32.56221 -48.08371,26.06368 -14.35576,-14.35575 35.087,-26.0637 -1.98303,-55.68185 66.32551,5.05004 z"
+       id="arm" />
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:none;stroke-width:6.47174644;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 354.69669,8.4408749 a 25.886985,25.886985 0 0 0 -16.8114,11.1257691 l -57.27202,86.268406 -33.8367,50.96511 -18.00859,4.03413 c -13.99412,3.1368 -23.08861,16.44207 -20.24925,30.49962 l 10.25038,50.74887 c 2.83936,14.05751 26.90112,26.87026 26.90112,26.87026 38.41373,25.50351 55.07271,38.36436 86.1023,40.63424 36.9219,2.31015 72.27249,-15.25394 92.73413,-46.07408 l 28.63642,-43.13242 46.53677,-70.0893 a 25.886985,25.886985 0 0 0 -7.24802,-35.88444 25.886985,25.886985 0 0 0 -35.88444,7.24801 l -46.53675,70.08928 a 25.886985,25.886985 0 0 0 -7.24801,-35.88445 25.886985,25.886985 0 0 0 -35.88446,7.24802 25.886985,25.886985 0 0 0 -7.248,-35.88444 25.886985,25.886985 0 0 0 -35.88445,7.24801 L 381.01775,48.203076 A 25.886985,25.886985 0 0 0 373.76974,12.318628 25.886985,25.886985 0 0 0 354.69669,8.4408749 Z"
+       id="hand" />
+  </g>
+  <g
+     style="filter:url(#elevation-6)"
+     id="band-name">
+    <path
+       style="fill:#ffc233;fill-opacity:1;stroke:none;stroke-width:8.03570843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 39.999999,396 472,380 V 504 L 39.999999,488 Z"
+       id="brakasssss-frame" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25px;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';letter-spacing:0px;word-spacing:0px;fill:#418b80;fill-opacity:1;stroke:none"
+       x="66.46875"
+       y="467.875"
+       id="brakasssss-text"><tspan
+         id="tspan1141"
+         x="66.46875"
+         y="467.875">Brakasssss'</tspan></text>
+    <path
+       style="fill:#418b80;fill-opacity:1;stroke:none;stroke-width:3.56318784;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#elevation-2)"
+       d="M 204,336.3871 80,324 v 96 l 124,-12.3871 z"
+       id="les-frame" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25px;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';letter-spacing:0px;word-spacing:0px;fill:#ffc233;fill-opacity:1;stroke:none"
+       x="95.567711"
+       y="391.32291"
+       id="les-text"><tspan
+         id="tspan1137"
+         x="95.567711"
+         y="391.32291"
+         style="font-size:53.33333206px">Les</tspan></text>
+  </g>
+  <metadata
+     id="metadata1233">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
