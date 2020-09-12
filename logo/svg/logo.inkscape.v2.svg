@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,233 +8,271 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   viewBox="0 0 512 512"
-   version="1.1"
+   sodipodi:docname="logo.inkscape.v2.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="logo.inkscape.v2.svg">
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1096">
+       id="linearGradient1096"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#c83737;stop-opacity:1"
+         id="stop1092"
          offset="0"
-         id="stop1092" />
+         style="stop-color:#c83737;stop-opacity:1" />
       <stop
-         style="stop-color:#ba293d;stop-opacity:0;"
+         id="stop1094"
          offset="1"
-         id="stop1094" />
+         style="stop-color:#ba293d;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1096"
-       id="linearGradient1098"
-       x1="237.06036"
-       y1="293.69"
-       x2="172.71788"
+       gradientUnits="userSpaceOnUse"
        y2="344.32181"
-       gradientUnits="userSpaceOnUse" />
+       x2="172.71788"
+       y1="293.69"
+       x1="237.06036"
+       id="linearGradient1098"
+       xlink:href="#linearGradient1096"
+       inkscape:collect="always" />
     <filter
-       style="color-interpolation-filters:sRGB"
+       id="elevation-2"
        inkscape:label="Drop Shadow"
-       id="elevation-2">
+       style="color-interpolation-filters:sRGB">
       <feFlood
-         flood-opacity="0.5"
-         flood-color="rgb(0,0,0)"
+         id="feFlood1161"
          result="flood"
-         id="feFlood1161" />
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.5" />
       <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
+         id="feComposite1163"
          result="composite1"
-         id="feComposite1163" />
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
       <feGaussianBlur
-         in="composite1"
+         id="feGaussianBlur1165"
+         result="blur"
          stdDeviation="2"
-         result="blur"
-         id="feGaussianBlur1165" />
+         in="composite1" />
       <feOffset
-         dx="1.38778e-016"
-         dy="2.77556e-017"
+         id="feOffset1167"
          result="offset"
-         id="feOffset1167" />
+         dy="2.77556e-017"
+         dx="1.38778e-016" />
       <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
+         id="feComposite1169"
          result="composite2"
-         id="feComposite1169" />
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB"
+       id="elevation-4"
        inkscape:label="Drop Shadow"
-       id="elevation-4">
+       style="color-interpolation-filters:sRGB">
       <feFlood
-         flood-opacity="0.5"
-         flood-color="rgb(0,0,0)"
+         id="feFlood1197"
          result="flood"
-         id="feFlood1197" />
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.5" />
       <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
+         id="feComposite1199"
          result="composite1"
-         id="feComposite1199" />
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
       <feGaussianBlur
-         in="composite1"
+         id="feGaussianBlur1201"
+         result="blur"
          stdDeviation="4"
-         result="blur"
-         id="feGaussianBlur1201" />
+         in="composite1" />
       <feOffset
-         dx="1.38778e-016"
-         dy="2.77556e-017"
+         id="feOffset1203"
          result="offset"
-         id="feOffset1203" />
+         dy="2.77556e-017"
+         dx="1.38778e-016" />
       <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
+         id="feComposite1205"
          result="composite2"
-         id="feComposite1205" />
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB"
+       id="elevation-6"
        inkscape:label="Drop Shadow"
-       id="elevation-6">
+       style="color-interpolation-filters:sRGB">
       <feFlood
-         flood-opacity="0.5"
-         flood-color="rgb(0,0,0)"
+         id="feFlood1221"
          result="flood"
-         id="feFlood1221" />
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.5" />
       <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
+         id="feComposite1223"
          result="composite1"
-         id="feComposite1223" />
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
       <feGaussianBlur
-         in="composite1"
-         stdDeviation="6"
+         id="feGaussianBlur1225"
          result="blur"
-         id="feGaussianBlur1225" />
+         stdDeviation="6"
+         in="composite1" />
       <feOffset
-         dx="1.38778e-016"
-         dy="2.77556e-017"
+         id="feOffset1227"
          result="offset"
-         id="feOffset1227" />
+         dy="2.77556e-017"
+         dx="1.38778e-016" />
       <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
+         id="feComposite1229"
          result="composite2"
-         id="feComposite1229" />
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
     </filter>
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="287.07713"
-     inkscape:cy="288.18657"
-     inkscape:document-units="px"
-     inkscape:current-layer="svg8"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-8"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     inkscape:showpageshadow="false"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="band-name"
+     inkscape:document-units="px"
+     inkscape:cy="288.18657"
+     inkscape:cx="287.07713"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <g
-     id="background"
-     style="filter:url(#elevation-2)">
+     style="filter:url(#elevation-2)"
+     id="background">
     <circle
-       r="248"
-       cy="256"
-       cx="256"
+       style="fill:#11767f;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle-1"
-       style="fill:#11767f;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+       cx="256"
+       cy="256"
+       r="248" />
     <circle
-       r="192"
-       cy="288"
-       cx="224"
+       style="fill:#005373;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle-2"
-       style="fill:#005373;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+       cx="224"
+       cy="288"
+       r="192" />
     <circle
-       r="128"
-       cy="320"
-       cx="192"
+       style="fill:#102e58;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle-3"
-       style="fill:#102e58;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+       cx="192"
+       cy="320"
+       r="128" />
   </g>
   <g
-     id="brakasssss-horns"
-     style="filter:url(#elevation-4)">
+     style="filter:url(#elevation-4)"
+     id="brakasssss-horns">
     <path
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:connector-curvature="0"
-       id="arm"
+       style="fill:url(#linearGradient1098);fill-opacity:1;stroke:none;stroke-width:8.6644659;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#elevation-4)"
        d="m 249.15095,261.45729 64.19566,39.35178 -41.47532,40.31315 -68.20257,-15.00685 -3.59837,32.56221 -48.08371,26.06368 -14.35576,-14.35575 35.087,-26.0637 -1.98303,-55.68185 66.32551,5.05004 z"
-       style="fill:url(#linearGradient1098);fill-opacity:1;stroke:none;stroke-width:8.6644659;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#elevation-4)" />
-    <path
+       id="arm"
        inkscape:connector-curvature="0"
-       id="hand"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:none;stroke-width:6.47174644;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        d="m 354.69669,8.4408749 a 25.886985,25.886985 0 0 0 -16.8114,11.1257691 l -57.27202,86.268406 -33.8367,50.96511 -18.00859,4.03413 c -13.99412,3.1368 -23.08861,16.44207 -20.24925,30.49962 l 10.25038,50.74887 c 2.83936,14.05751 26.90112,26.87026 26.90112,26.87026 38.41373,25.50351 55.07271,38.36436 86.1023,40.63424 36.9219,2.31015 72.27249,-15.25394 92.73413,-46.07408 l 28.63642,-43.13242 46.53677,-70.0893 a 25.886985,25.886985 0 0 0 -7.24802,-35.88444 25.886985,25.886985 0 0 0 -35.88444,7.24801 l -46.53675,70.08928 a 25.886985,25.886985 0 0 0 -7.24801,-35.88445 25.886985,25.886985 0 0 0 -35.88446,7.24802 25.886985,25.886985 0 0 0 -7.248,-35.88444 25.886985,25.886985 0 0 0 -35.88445,7.24801 L 381.01775,48.203076 A 25.886985,25.886985 0 0 0 373.76974,12.318628 25.886985,25.886985 0 0 0 354.69669,8.4408749 Z"
-       style="fill:#c83737;fill-opacity:1;stroke:none;stroke-width:6.47174644;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+       id="hand"
+       inkscape:connector-curvature="0" />
   </g>
   <g
-     id="band-name"
-     style="filter:url(#elevation-6)">
+     style="filter:url(#elevation-6)"
+     id="band-name">
     <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="brakasssss-frame"
+       style="fill:#ffc233;fill-opacity:1;stroke:none;stroke-width:8.03570843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        d="M 39.999999,396 472,380 V 504 L 39.999999,488 Z"
-       style="fill:#ffc233;fill-opacity:1;stroke:none;stroke-width:8.03570843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
-    <text
-       id="brakasssss-text"
-       y="467.875"
-       x="66.46875"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25px;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';letter-spacing:0px;word-spacing:0px;fill:#418b80;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="467.875"
-         x="66.46875"
-         id="tspan1141"
-         sodipodi:role="line">Brakasssss'</tspan></text>
-    <path
-       sodipodi:nodetypes="ccccc"
+       id="brakasssss-frame"
        inkscape:connector-curvature="0"
-       id="les-frame"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25px;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';letter-spacing:0px;word-spacing:0px;fill:#418b80;fill-opacity:1;stroke:none"
+       id="brakasssss-text"
+       aria-label="Brakasssss'">
+      <path
+         id="path872"
+         d="m 116.03125,438.8125 q 0,2.0625 -1.1875,3.9375 -1.125,1.875 -2.875,3.375 -1.75,1.5 -3.8125,2.5625 -2.0625,1.0625 -3.8125,1.5 1.75,0.5625 3.5,1.5 1.75,0.9375 3.125,2.25 1.4375,1.3125 2.25,3 0.875,1.6875 0.875,3.75 0,2.5 -1.5625,4.3125 -1.5,1.8125 -4,3.125 -2.4375,1.3125 -5.5,2.125 -3,0.875 -6.0625,1.375 -3,0.5625 -5.6875,0.875 -2.6875,0.3125 -4.375,0.5 l -25.5,2.75 14.25,-8.4375 -2.9375,-34.125 -13.3125,-7.875 31.125,0.625 q 1.875,0.0625 4.5,0.3125 2.6875,0.25 5.5,0.8125 2.8125,0.5 5.5625,1.4375 2.8125,0.9375 5,2.375 2.25,1.375 3.5625,3.375 1.375,1.9375 1.375,4.5625 z m -10.4375,0 q 0,-1.4375 -0.875,-2.4375 -0.875,-1.0625 -2.3125,-1.8125 -1.4375,-0.75 -3.1875,-1.1875 -1.6875,-0.5 -3.4375,-0.75 -1.75,-0.3125 -3.25,-0.375 -1.5,-0.125 -2.4375,-0.125 -1.5,0 -3,0.125 -1.5,0.0625 -2.9375,0.1875 l 0.375,13.125 q 1.3125,0.125 2.625,0.25 1.375,0.0625 2.6875,0.0625 1.5,0 4.125,-0.25 2.625,-0.3125 5.1875,-1.0625 2.625,-0.75 4.5,-2.125 1.9375,-1.375 1.9375,-3.625 z m -3.375,20.6875 q 0,-1.4375 -1,-2.5 -0.9375,-1.125 -2.4375,-1.875 -1.5,-0.8125 -3.375,-1.3125 -1.875,-0.5 -3.75,-0.75 -1.8125,-0.3125 -3.4375,-0.4375 -1.5625,-0.125 -2.5625,-0.125 h -0.1875 l 0.5,14.875 q 0.9375,-0.0625 2.5,-0.25 1.625,-0.25 3.4375,-0.625 1.8125,-0.4375 3.625,-1.0625 1.875,-0.6875 3.3125,-1.5 1.5,-0.875 2.4375,-1.9375 0.9375,-1.125 0.9375,-2.5 z" />
+      <path
+         id="path874"
+         d="m 156.15625,437.375 q 0,2.5625 -1.5625,4.25 -1.5625,1.625 -4.1875,1.625 -1.9375,0 -3,-0.6875 -1.0625,-0.75 -1.8125,-1.625 -0.6875,-0.9375 -1.4375,-1.625 -0.6875,-0.75 -2,-0.75 -2.3125,0 -3.6875,1.5 -1.375,1.4375 -2.0625,3.4375 -0.0625,0.125 -0.125,1.1875 0,1.0625 -0.0625,2.6875 -0.0625,1.625 -0.125,3.5625 -0.0625,1.9375 -0.125,3.6875 -0.0625,1.75 -0.125,3.125 -0.0625,1.3125 -0.0625,1.75 l 15.1875,5.5 -36.125,3.6875 q 3.25,-2.0625 6.5,-4.0625 3.25,-2.0625 6.5,-4.0625 l -2.3125,-21.8125 -13.9375,-3.75 25.1875,-5.5 -0.125,5.75 q 2.625,-1.8125 5.375,-3.0625 2.8125,-1.3125 6.1875,-1.3125 1.125,0 2.3125,0.25 1.1875,0.25 2.25,0.75 1.0625,0.5 1.875,1.375 0.8125,0.8125 1.1875,2 0.3125,1.125 0.3125,2.125 z" />
+      <path
+         id="path876"
+         d="m 195.28125,468.5 -19.8125,0.8125 0.4375,-3.5 q -2,0.25 -4,0.3125 -2,0 -4,0 -1.8125,0 -4,-0.4375 -2.1875,-0.4375 -4.0625,-1.375 -1.875,-1 -3.125,-2.5625 -1.25,-1.5625 -1.25,-3.8125 0,-2.5 1.1875,-4.25 1.1875,-1.75 3,-2.8125 1.875,-1.0625 4.125,-1.5625 2.25,-0.5 4.375,-0.5 2.625,0 5.125,0.25 2.5,0.25 5.0625,0.4375 0.125,-0.8125 0.1875,-1.625 0.0625,-0.875 0.0625,-1.75 0,-1.6875 -0.3125,-3.3125 -0.25,-1.625 -1,-2.875 -0.6875,-1.3125 -2,-2.0625 -1.25,-0.75 -3.25,-0.75 -1.875,0 -3.4375,0.625 -1.5,0.5625 -2.6875,2 0.875,0.6875 1.1875,1.5625 0.3125,0.8125 0.3125,1.875 v 0.375 q -0.9375,4.375 -5.5,4.375 -2.0625,0 -3.375,-1.4375 -1.3125,-1.5 -1.3125,-3.5 0,-2.75 1.5625,-4.75 1.5625,-2 3.8125,-3.3125 2.3125,-1.3125 4.9375,-1.9375 2.6875,-0.625 4.9375,-0.625 7.1875,0 11.1875,3.3125 4.0625,3.3125 4.0625,10.8125 0,0.8125 -0.0625,1.625 0,0.8125 -0.0625,1.625 l -1.5,14.375 q 2.375,1.0625 4.625,2.1875 2.25,1.125 4.5625,2.1875 z m -17.625,-14.8125 q -1.625,-0.1875 -3.25,-0.375 -1.625,-0.25 -3.25,-0.25 -1.0625,0 -2.125,0.25 -1,0.1875 -1.875,0.6875 -0.8125,0.5 -1.3125,1.375 -0.5,0.8125 -0.5,2.0625 0,0.9375 0.4375,1.6875 0.4375,0.6875 1.125,1.1875 0.75,0.5 1.5625,0.75 0.875,0.25 1.6875,0.25 1.625,0 3.25,-0.1875 1.6875,-0.1875 3.25,-0.375 z" />
+      <path
+         id="path878"
+         d="m 245.90625,468 -30.1875,6.4375 10,-7.5 -12.6875,-19.4375 -4.9375,3.3125 -0.25,11.4375 12.5,5 -33.3125,1.3125 12.3125,-6.25 -2.625,-40.5625 -14.75,-3.4375 27.125,-2.0625 -0.75,27.8125 13.25,-11.25 -9.875,-5.875 h 32.125 l -14.375,6.75 -10.375,7.875 14.0625,23.1875 z" />
+      <path
+         id="path880"
+         d="m 275.5,468.5 -19.8125,0.8125 0.4375,-3.5 q -2,0.25 -4,0.3125 -2,0 -4,0 -1.8125,0 -4,-0.4375 -2.1875,-0.4375 -4.0625,-1.375 -1.875,-1 -3.125,-2.5625 -1.25,-1.5625 -1.25,-3.8125 0,-2.5 1.1875,-4.25 1.1875,-1.75 3,-2.8125 1.875,-1.0625 4.125,-1.5625 2.25,-0.5 4.375,-0.5 2.625,0 5.125,0.25 2.5,0.25 5.0625,0.4375 0.125,-0.8125 0.1875,-1.625 0.0625,-0.875 0.0625,-1.75 0,-1.6875 -0.3125,-3.3125 -0.25,-1.625 -1,-2.875 -0.6875,-1.3125 -2,-2.0625 -1.25,-0.75 -3.25,-0.75 -1.875,0 -3.4375,0.625 -1.5,0.5625 -2.6875,2 0.875,0.6875 1.1875,1.5625 0.3125,0.8125 0.3125,1.875 v 0.375 q -0.9375,4.375 -5.5,4.375 -2.0625,0 -3.375,-1.4375 -1.3125,-1.5 -1.3125,-3.5 0,-2.75 1.5625,-4.75 1.5625,-2 3.8125,-3.3125 2.3125,-1.3125 4.9375,-1.9375 2.6875,-0.625 4.9375,-0.625 7.1875,0 11.1875,3.3125 4.0625,3.3125 4.0625,10.8125 0,0.8125 -0.0625,1.625 0,0.8125 -0.0625,1.625 l -1.5,14.375 q 2.375,1.0625 4.625,2.1875 2.25,1.125 4.5625,2.1875 z m -17.625,-14.8125 q -1.625,-0.1875 -3.25,-0.375 -1.625,-0.25 -3.25,-0.25 -1.0625,0 -2.125,0.25 -1,0.1875 -1.875,0.6875 -0.8125,0.5 -1.3125,1.375 -0.5,0.8125 -0.5,2.0625 0,0.9375 0.4375,1.6875 0.4375,0.6875 1.125,1.1875 0.75,0.5 1.5625,0.75 0.875,0.25 1.6875,0.25 1.625,0 3.25,-0.1875 1.6875,-0.1875 3.25,-0.375 z" />
+      <path
+         id="path882"
+         d="m 305.21875,457.3125 q 0,3.125 -1.4375,5.125 -1.4375,2 -3.625,3.1875 -2.1875,1.125 -4.875,1.625 -2.6875,0.4375 -5.1875,0.4375 -1.4375,0 -3.1875,-0.1875 -1.6875,-0.25 -3.375,-0.6875 -1.6875,-0.4375 -3.3125,-1.0625 -1.5625,-0.625 -2.8125,-1.5 l -5.0625,5.9375 1.9375,-19.125 q 1.0625,2.3125 2.6875,4.375 1.6875,2.0625 3.8125,3.625 2.125,1.5625 4.5625,2.5 2.4375,0.875 5.0625,0.875 0.6875,0 1.5625,-0.0625 0.9375,-0.125 1.75,-0.4375 0.875,-0.3125 1.4375,-0.875 0.5625,-0.5625 0.5625,-1.5 0,-1.0625 -1.125,-1.9375 -1.125,-0.9375 -2.625,-1.5625 -1.5,-0.6875 -3,-1.125 -1.5,-0.5 -2.25,-0.75 -2.125,-0.625 -4.6875,-1.6875 -2.5,-1.125 -4.6875,-2.625 -2.125,-1.5625 -3.5625,-3.625 -1.4375,-2.125 -1.4375,-4.875 0,-2.625 1.25,-4.6875 1.3125,-2.0625 3.3125,-3.4375 2,-1.4375 4.4375,-2.125 2.5,-0.75 4.875,-0.75 3.75,0 7.0625,1.375 3.375,1.3125 6.125,3.8125 l 3.875,-7.5 -0.8125,19.75 q -1.125,-2.125 -2.8125,-4.25 -1.6875,-2.1875 -3.75,-3.9375 -2.0625,-1.75 -4.4375,-2.8125 -2.375,-1.0625 -4.9375,-1.0625 -0.75,0 -1.75,0.1875 -0.9375,0.125 -1.8125,0.5 -0.8125,0.375 -1.4375,1.0625 -0.5625,0.625 -0.5625,1.625 0,1.1875 0.875,2.0625 0.9375,0.875 2.1875,1.5625 1.3125,0.625 2.625,1.125 1.375,0.4375 2.25,0.6875 2.25,0.75 5.0625,1.75 2.8125,1 5.3125,2.4375 2.5,1.4375 4.1875,3.5625 1.75,2.0625 1.75,5 z" />
+      <path
+         id="path884"
+         d="m 339.34375,457.3125 q 0,3.125 -1.4375,5.125 -1.4375,2 -3.625,3.1875 -2.1875,1.125 -4.875,1.625 -2.6875,0.4375 -5.1875,0.4375 -1.4375,0 -3.1875,-0.1875 -1.6875,-0.25 -3.375,-0.6875 -1.6875,-0.4375 -3.3125,-1.0625 -1.5625,-0.625 -2.8125,-1.5 l -5.0625,5.9375 1.9375,-19.125 q 1.0625,2.3125 2.6875,4.375 1.6875,2.0625 3.8125,3.625 2.125,1.5625 4.5625,2.5 2.4375,0.875 5.0625,0.875 0.6875,0 1.5625,-0.0625 0.9375,-0.125 1.75,-0.4375 0.875,-0.3125 1.4375,-0.875 0.5625,-0.5625 0.5625,-1.5 0,-1.0625 -1.125,-1.9375 -1.125,-0.9375 -2.625,-1.5625 -1.5,-0.6875 -3,-1.125 -1.5,-0.5 -2.25,-0.75 -2.125,-0.625 -4.6875,-1.6875 -2.5,-1.125 -4.6875,-2.625 -2.125,-1.5625 -3.5625,-3.625 -1.4375,-2.125 -1.4375,-4.875 0,-2.625 1.25,-4.6875 1.3125,-2.0625 3.3125,-3.4375 2,-1.4375 4.4375,-2.125 2.5,-0.75 4.875,-0.75 3.75,0 7.0625,1.375 3.375,1.3125 6.125,3.8125 l 3.875,-7.5 -0.8125,19.75 q -1.125,-2.125 -2.8125,-4.25 -1.6875,-2.1875 -3.75,-3.9375 -2.0625,-1.75 -4.4375,-2.8125 -2.375,-1.0625 -4.9375,-1.0625 -0.75,0 -1.75,0.1875 -0.9375,0.125 -1.8125,0.5 -0.8125,0.375 -1.4375,1.0625 -0.5625,0.625 -0.5625,1.625 0,1.1875 0.875,2.0625 0.9375,0.875 2.1875,1.5625 1.3125,0.625 2.625,1.125 1.375,0.4375 2.25,0.6875 2.25,0.75 5.0625,1.75 2.8125,1 5.3125,2.4375 2.5,1.4375 4.1875,3.5625 1.75,2.0625 1.75,5 z" />
+      <path
+         id="path886"
+         d="m 373.46875,457.3125 q 0,3.125 -1.4375,5.125 -1.4375,2 -3.625,3.1875 -2.1875,1.125 -4.875,1.625 -2.6875,0.4375 -5.1875,0.4375 -1.4375,0 -3.1875,-0.1875 -1.6875,-0.25 -3.375,-0.6875 -1.6875,-0.4375 -3.3125,-1.0625 -1.5625,-0.625 -2.8125,-1.5 l -5.0625,5.9375 1.9375,-19.125 q 1.0625,2.3125 2.6875,4.375 1.6875,2.0625 3.8125,3.625 2.125,1.5625 4.5625,2.5 2.4375,0.875 5.0625,0.875 0.6875,0 1.5625,-0.0625 0.9375,-0.125 1.75,-0.4375 0.875,-0.3125 1.4375,-0.875 0.5625,-0.5625 0.5625,-1.5 0,-1.0625 -1.125,-1.9375 -1.125,-0.9375 -2.625,-1.5625 -1.5,-0.6875 -3,-1.125 -1.5,-0.5 -2.25,-0.75 -2.125,-0.625 -4.6875,-1.6875 -2.5,-1.125 -4.6875,-2.625 -2.125,-1.5625 -3.5625,-3.625 -1.4375,-2.125 -1.4375,-4.875 0,-2.625 1.25,-4.6875 1.3125,-2.0625 3.3125,-3.4375 2,-1.4375 4.4375,-2.125 2.5,-0.75 4.875,-0.75 3.75,0 7.0625,1.375 3.375,1.3125 6.125,3.8125 l 3.875,-7.5 -0.8125,19.75 q -1.125,-2.125 -2.8125,-4.25 -1.6875,-2.1875 -3.75,-3.9375 -2.0625,-1.75 -4.4375,-2.8125 -2.375,-1.0625 -4.9375,-1.0625 -0.75,0 -1.75,0.1875 -0.9375,0.125 -1.8125,0.5 -0.8125,0.375 -1.4375,1.0625 -0.5625,0.625 -0.5625,1.625 0,1.1875 0.875,2.0625 0.9375,0.875 2.1875,1.5625 1.3125,0.625 2.625,1.125 1.375,0.4375 2.25,0.6875 2.25,0.75 5.0625,1.75 2.8125,1 5.3125,2.4375 2.5,1.4375 4.1875,3.5625 1.75,2.0625 1.75,5 z" />
+      <path
+         id="path888"
+         d="m 407.59375,457.3125 q 0,3.125 -1.4375,5.125 -1.4375,2 -3.625,3.1875 -2.1875,1.125 -4.875,1.625 -2.6875,0.4375 -5.1875,0.4375 -1.4375,0 -3.1875,-0.1875 -1.6875,-0.25 -3.375,-0.6875 -1.6875,-0.4375 -3.3125,-1.0625 -1.5625,-0.625 -2.8125,-1.5 l -5.0625,5.9375 1.9375,-19.125 q 1.0625,2.3125 2.6875,4.375 1.6875,2.0625 3.8125,3.625 2.125,1.5625 4.5625,2.5 2.4375,0.875 5.0625,0.875 0.6875,0 1.5625,-0.0625 0.9375,-0.125 1.75,-0.4375 0.875,-0.3125 1.4375,-0.875 0.5625,-0.5625 0.5625,-1.5 0,-1.0625 -1.125,-1.9375 -1.125,-0.9375 -2.625,-1.5625 -1.5,-0.6875 -3,-1.125 -1.5,-0.5 -2.25,-0.75 -2.125,-0.625 -4.6875,-1.6875 -2.5,-1.125 -4.6875,-2.625 -2.125,-1.5625 -3.5625,-3.625 -1.4375,-2.125 -1.4375,-4.875 0,-2.625 1.25,-4.6875 1.3125,-2.0625 3.3125,-3.4375 2,-1.4375 4.4375,-2.125 2.5,-0.75 4.875,-0.75 3.75,0 7.0625,1.375 3.375,1.3125 6.125,3.8125 l 3.875,-7.5 -0.8125,19.75 q -1.125,-2.125 -2.8125,-4.25 -1.6875,-2.1875 -3.75,-3.9375 -2.0625,-1.75 -4.4375,-2.8125 -2.375,-1.0625 -4.9375,-1.0625 -0.75,0 -1.75,0.1875 -0.9375,0.125 -1.8125,0.5 -0.8125,0.375 -1.4375,1.0625 -0.5625,0.625 -0.5625,1.625 0,1.1875 0.875,2.0625 0.9375,0.875 2.1875,1.5625 1.3125,0.625 2.625,1.125 1.375,0.4375 2.25,0.6875 2.25,0.75 5.0625,1.75 2.8125,1 5.3125,2.4375 2.5,1.4375 4.1875,3.5625 1.75,2.0625 1.75,5 z" />
+      <path
+         id="path890"
+         d="m 441.71875,457.3125 q 0,3.125 -1.4375,5.125 -1.4375,2 -3.625,3.1875 -2.1875,1.125 -4.875,1.625 -2.6875,0.4375 -5.1875,0.4375 -1.4375,0 -3.1875,-0.1875 -1.6875,-0.25 -3.375,-0.6875 -1.6875,-0.4375 -3.3125,-1.0625 -1.5625,-0.625 -2.8125,-1.5 l -5.0625,5.9375 1.9375,-19.125 q 1.0625,2.3125 2.6875,4.375 1.6875,2.0625 3.8125,3.625 2.125,1.5625 4.5625,2.5 2.4375,0.875 5.0625,0.875 0.6875,0 1.5625,-0.0625 0.9375,-0.125 1.75,-0.4375 0.875,-0.3125 1.4375,-0.875 0.5625,-0.5625 0.5625,-1.5 0,-1.0625 -1.125,-1.9375 -1.125,-0.9375 -2.625,-1.5625 -1.5,-0.6875 -3,-1.125 -1.5,-0.5 -2.25,-0.75 -2.125,-0.625 -4.6875,-1.6875 -2.5,-1.125 -4.6875,-2.625 -2.125,-1.5625 -3.5625,-3.625 -1.4375,-2.125 -1.4375,-4.875 0,-2.625 1.25,-4.6875 1.3125,-2.0625 3.3125,-3.4375 2,-1.4375 4.4375,-2.125 2.5,-0.75 4.875,-0.75 3.75,0 7.0625,1.375 3.375,1.3125 6.125,3.8125 l 3.875,-7.5 -0.8125,19.75 q -1.125,-2.125 -2.8125,-4.25 -1.6875,-2.1875 -3.75,-3.9375 -2.0625,-1.75 -4.4375,-2.8125 -2.375,-1.0625 -4.9375,-1.0625 -0.75,0 -1.75,0.1875 -0.9375,0.125 -1.8125,0.5 -0.8125,0.375 -1.4375,1.0625 -0.5625,0.625 -0.5625,1.625 0,1.1875 0.875,2.0625 0.9375,0.875 2.1875,1.5625 1.3125,0.625 2.625,1.125 1.375,0.4375 2.25,0.6875 2.25,0.75 5.0625,1.75 2.8125,1 5.3125,2.4375 2.5,1.4375 4.1875,3.5625 1.75,2.0625 1.75,5 z" />
+      <path
+         id="path892"
+         d="m 452.46875,425.125 -1.5625,16.875 -7.125,-0.125 -1.4375,-16.75 z" />
+    </g>
+    <path
+       style="fill:#418b80;fill-opacity:1;stroke:none;stroke-width:3.56318784;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#elevation-2)"
        d="M 204,336.3871 80,324 v 96 l 124,-12.3871 z"
-       style="fill:#418b80;fill-opacity:1;stroke:none;stroke-width:3.56318784;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#elevation-2)" />
-    <text
-       id="les-text"
-       y="391.32291"
-       x="95.567711"
+       id="les-frame"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <g
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25px;font-family:'Fontdiner Swanky';-inkscape-font-specification:'Fontdiner Swanky';letter-spacing:0px;word-spacing:0px;fill:#ffc233;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:53.33333206px"
-         y="391.32291"
-         x="95.567711"
-         id="tspan1137"
-         sodipodi:role="line">Les</tspan></text>
+       id="les-text"
+       aria-label="Les">
+      <path
+         id="path865"
+         style="font-size:53.3333px"
+         d="m 133.11977,389.18749 -40.260391,1.77083 12.395831,-5.98958 -1.61459,-30.57289 -12.864573,-4.89584 34.947893,-0.10416 -11.82291,5.05208 -0.52083,30.41665 12.70833,0.41666 7.03124,-18.0729 z" />
+      <path
+         id="path867"
+         style="font-size:53.3333px"
+         d="m 164.73433,381.84375 q 0,0.36458 -0.0521,0.72916 0,0.36458 0,0.72917 l -21.1979,0.41666 q 0.67708,3.07292 3.07291,4.53125 2.39583,1.45833 5.41667,1.45833 1.45833,0 2.96874,-0.20833 1.51042,-0.20833 2.96875,-0.67708 1.45833,-0.46875 2.76042,-1.19792 1.30208,-0.78125 2.34375,-1.82291 -0.57292,2.1875 -1.92709,3.85416 -1.35416,1.66667 -3.22916,2.76042 -1.82292,1.09375 -4.01042,1.61458 -2.13541,0.57291 -4.27083,0.57291 -2.91666,0 -5.57291,-1.04166 -2.60416,-1.04167 -4.58333,-2.86458 -1.92708,-1.82292 -3.07291,-4.375 -1.14584,-2.55208 -1.14584,-5.57291 0,-3.17709 1.30208,-5.78125 1.30209,-2.60417 3.4375,-4.42708 2.13542,-1.875 4.94792,-2.86458 2.81249,-0.98959 5.88541,-0.98959 3.22916,0 5.78125,1.19792 2.60416,1.19792 4.42708,3.28125 1.82291,2.08333 2.76041,4.84375 0.98958,2.70833 0.98958,5.83333 z m -7.96874,-2.65625 q -0.10417,-1.40625 -0.57292,-2.70833 -0.46875,-1.30209 -1.30208,-2.29167 -0.83333,-0.98958 -2.03125,-1.5625 -1.14583,-0.625 -2.70833,-0.625 -1.5625,0 -2.70833,0.57292 -1.14583,0.57291 -1.92708,1.5625 -0.78125,0.9375 -1.30209,2.23958 -0.46875,1.25 -0.72916,2.60416 z" />
+      <path
+         id="path869"
+         style="font-size:53.3333px"
+         d="m 193.22391,382.52083 q 0,2.60416 -1.19792,4.27083 -1.19792,1.66666 -3.02083,2.65625 -1.82292,0.9375 -4.0625,1.35416 -2.23958,0.36459 -4.32291,0.36459 -1.19792,0 -2.65625,-0.15625 -1.40625,-0.20834 -2.8125,-0.57292 -1.40625,-0.36458 -2.76042,-0.88542 -1.30208,-0.52083 -2.34374,-1.25 l -4.21875,4.94792 1.61458,-15.93749 q 0.88542,1.92708 2.23958,3.64583 1.40625,1.71875 3.17708,3.02083 1.77084,1.30208 3.80209,2.08333 2.03124,0.72917 4.21874,0.72917 0.57292,0 1.30209,-0.0521 0.78125,-0.10417 1.45833,-0.36459 0.72916,-0.26041 1.19791,-0.72916 0.46875,-0.46875 0.46875,-1.25 0,-0.88542 -0.9375,-1.61459 -0.9375,-0.78124 -2.18749,-1.30208 -1.25,-0.57291 -2.5,-0.9375 -1.25,-0.41666 -1.875,-0.625 -1.77083,-0.52083 -3.90625,-1.40625 -2.08333,-0.9375 -3.90625,-2.18749 -1.77083,-1.30209 -2.96875,-3.02084 -1.19791,-1.77083 -1.19791,-4.06249 0,-2.1875 1.04166,-3.90625 1.09375,-1.71875 2.76042,-2.86458 1.66667,-1.19792 3.69791,-1.77084 2.08334,-0.62499 4.0625,-0.62499 3.125,0 5.88542,1.14583 2.81249,1.09375 5.10416,3.17708 l 3.22916,-6.25 -0.67708,16.45833 q -0.9375,-1.77084 -2.34375,-3.54167 -1.40625,-1.82291 -3.125,-3.28125 -1.71875,-1.45833 -3.69791,-2.34374 -1.97917,-0.88542 -4.11458,-0.88542 -0.625,0 -1.45833,0.15625 -0.78125,0.10417 -1.51042,0.41667 -0.67708,0.3125 -1.19792,0.88541 -0.46875,0.52083 -0.46875,1.35417 0,0.98958 0.72917,1.71875 0.78125,0.72916 1.82292,1.30208 1.09375,0.52083 2.18749,0.9375 1.14584,0.36458 1.875,0.57291 1.875,0.625 4.21875,1.45834 2.34375,0.83333 4.42708,2.03125 2.08333,1.19791 3.48958,2.96874 1.45834,1.71875 1.45834,4.16667 z" />
+    </g>
   </g>
   <metadata
      id="metadata1233">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title></dc:title>
+        <dc:title />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
